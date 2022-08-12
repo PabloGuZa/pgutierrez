@@ -8,4 +8,5 @@
 Repositorio de entrega del alumno **Pablo Horacio Gutiérrez Zavala**
 
 
-Profra: **Mrta Rosa Martha Peralta Blanco**
+Profra: **Mtra Rosa Martha Peralta Blanco**
+Profra: **Dra Bertha Hernández Aguilar**
